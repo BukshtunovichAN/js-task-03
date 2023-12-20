@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;AAIA","sources":["src/css/02-video.css"],"sourcesContent":["body {\r\n    background-color: rgb(80, 80, 80);\r\n}\r\n\r\n.back-tittle {\r\ncolor: whitesmoke;\r\n}"],"names":[],"version":3,"file":"02-video.0e6bd9c9.css.map","sourceRoot":"/__parcel_source_root/"}
